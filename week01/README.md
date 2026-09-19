@@ -6,6 +6,7 @@ This program was created to practice the basic process of creating, testing, doc
 
 The purpose of this project is to strengthen my skills and become more familiar with using development tools like VSCode and Github. It also gives me experience organizing a software project and documenting it for future assingments in this course.
 
+https://youtu.be/Ve9R0n5mjvs
 
 # Development Environment
 
