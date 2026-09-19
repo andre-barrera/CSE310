@@ -6,13 +6,19 @@ The dataset used for this project contains information related to VideoGame sale
 
 The purpose of this project is to improve my data analysis skills and learn how to identify patterns using real world data sets
 
-Video Demonstration - 
+Video Demonstration - https://www.youtube.com/watch?v=nQAhpjBRlCQ
 
 # Data Analysis Results
 
 1. Which genres have the highest total global sales?
 
+Top genre: Action
+Total global sales: 1,751.18 million units
+
 2. Which platforms have the highest average sales per game?
+
+Top platform: GB
+Average global sales per game: 2.607 million units
 
 # Development Environment
 

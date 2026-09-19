@@ -1,0 +1,26 @@
+VIDEO GAME SALES DATA ANALYSIS
+============================================================
+
+Question 1: Which genres have the highest total global sales?
+Top genre: Action
+Total global sales: 1,751.18 million units
+
+Top 5 genres:
+       Genre  Total_Global_Sales
+      Action             1751.18
+      Sports             1330.93
+     Shooter             1037.37
+Role-Playing              927.37
+    Platform              831.37
+
+Question 2: Which platforms have the highest average global sales per game?
+Top platform: GB
+Average global sales per game: 2.607 million units
+
+Top 5 platforms:
+Platform  Average_Global_Sales  Game_Count
+      GB              2.606633          98
+     NES              2.561939          98
+     GEN              1.050370          27
+    SNES              0.837029         239
+     PS4              0.827679         336
